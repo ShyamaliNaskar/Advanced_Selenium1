@@ -34,5 +34,12 @@ public static void main(String[] args) throws InterruptedException {
 	driver.findElement(By.xpath("//span[.='Cart']")).click();
 	Thread.sleep(2000);
 	
+	
+	
+	//System.out.println("Hello");
 }
 }
+
+
+      
+
