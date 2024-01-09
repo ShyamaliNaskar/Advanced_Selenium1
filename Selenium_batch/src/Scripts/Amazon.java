@@ -16,5 +16,10 @@ public static void main(String[] args) throws InterruptedException {
 	driver.findElement(By.xpath("//input[@id='nav-search-submit-button']")).click();
 	Thread.sleep(2000);
 	driver.findElement(By.xpath("//span[text()='Unisex-Adult X-ray 2 Square Sneakers Sneaker']")).click();
- }
+ 
+
+	//System.out.println("Hello");
+
+
+}
 }
