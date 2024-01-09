@@ -17,5 +17,9 @@ public class Amazon2 {
 	List<WebElement> links = driver.findElements(By.xpath("//a"));	
 	System.out.println(links);
 	driver.close();
+	
+	
+	//System.out.println("Hello");
+	
 	}
 }
